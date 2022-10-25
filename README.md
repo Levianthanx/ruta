@@ -1,1 +1,3 @@
-# ruta
+id,x,y
+san antonio,	4.135935,73.619009
+san angustin 4.138997,	73.621812
